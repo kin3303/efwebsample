@@ -1,9 +1,7 @@
 USE `univers`;
 
-
-DROP TABLE IF EXISTS `university`;
-
 SET foreign_key_checks = 0;
+DROP TABLE IF EXISTS `university`;
 DROP TABLE IF EXISTS `student`;
 SET foreign_key_checks = 1;
 
