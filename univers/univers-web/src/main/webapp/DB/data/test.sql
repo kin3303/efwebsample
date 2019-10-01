@@ -1,7 +1,11 @@
 USE `univers`;
 
+
 DROP TABLE IF EXISTS `university`;
+
+SET foreign_key_checks = 0;
 DROP TABLE IF EXISTS `student`;
+SET foreign_key_checks = 1;
 
 CREATE TABLE `university` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
