@@ -32,5 +32,5 @@ UNLOCK TABLES;
 
 LOCK TABLES `student` WRITE;
 INSERT INTO `student` VALUES 
-(1,'22','daeung','kim','male',3),(2,'23','eunju','kim','female',1),(3,'24','eunju','lee','female',7),(4,'20','jongchang','lee','male',4);
+(1,'22','daeung','kim','male',3),(2,'23','eunju','kim','female',1),(3,'24','eunju','lee','female',7),(4,'20','jongchang','lee','male',4),(5,'27','sunghwan','kim','male',4);
 UNLOCK TABLES;
