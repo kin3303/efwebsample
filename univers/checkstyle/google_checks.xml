@@ -9,11 +9,6 @@ page at http://checkstyle.sourceforge.net/config.html -->
 
 <module name="Checker">
 
-  <module name="FileTabCharacter">
-    <!-- Checks that there are no tab characters in the file.
-    -->
-  </module>
-
   <module name="NewlineAtEndOfFile"/>
 
   <module name="RegexpSingleline">
