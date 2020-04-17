@@ -18,7 +18,7 @@ import com.vaadin.ui.UI;
 import com.vaadin.ui.VerticalLayout;
 
 @SpringUI(path=UniversMainUI.NAME)
-@Title("Univers-V2.5")
+@Title("Univers-3.1")
 @Theme("valo")
 public class UniversMainUI extends UI {
 	public static final String NAME="/ui";
