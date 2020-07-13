@@ -4,6 +4,7 @@
     <groupId>com.demo</groupId>
     <artifactId>univers</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <relativePath></relativePath>
   </parent>
   <artifactId>univers-ui</artifactId>
   <dependencies>
